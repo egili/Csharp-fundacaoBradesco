@@ -1,0 +1,13 @@
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\bin\Debug\netcoreapp3.1\Calculo-IMC.exe
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\bin\Debug\netcoreapp3.1\Calculo-IMC.deps.json
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\bin\Debug\netcoreapp3.1\Calculo-IMC.runtimeconfig.json
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\bin\Debug\netcoreapp3.1\Calculo-IMC.runtimeconfig.dev.json
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\bin\Debug\netcoreapp3.1\Calculo-IMC.dll
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\bin\Debug\netcoreapp3.1\Calculo-IMC.pdb
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\obj\Debug\netcoreapp3.1\Calculo-IMC.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\obj\Debug\netcoreapp3.1\Calculo-IMC.AssemblyInfoInputs.cache
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\obj\Debug\netcoreapp3.1\Calculo-IMC.AssemblyInfo.cs
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\obj\Debug\netcoreapp3.1\Calculo-IMC.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\obj\Debug\netcoreapp3.1\Calculo-IMC.dll
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\obj\Debug\netcoreapp3.1\Calculo-IMC.pdb
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC\Calculo-IMC\obj\Debug\netcoreapp3.1\Calculo-IMC.genruntimeconfig.cache

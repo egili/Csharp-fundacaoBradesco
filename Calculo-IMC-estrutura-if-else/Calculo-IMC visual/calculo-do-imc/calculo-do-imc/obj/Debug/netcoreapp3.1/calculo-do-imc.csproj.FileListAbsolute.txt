@@ -1,0 +1,15 @@
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\bin\Debug\netcoreapp3.1\calculo-do-imc.exe
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\bin\Debug\netcoreapp3.1\calculo-do-imc.deps.json
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\bin\Debug\netcoreapp3.1\calculo-do-imc.runtimeconfig.json
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\bin\Debug\netcoreapp3.1\calculo-do-imc.runtimeconfig.dev.json
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\bin\Debug\netcoreapp3.1\calculo-do-imc.dll
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\bin\Debug\netcoreapp3.1\calculo-do-imc.pdb
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo_do_imc.Form1.resources
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.csproj.GenerateResource.cache
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.AssemblyInfoInputs.cache
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.AssemblyInfo.cs
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.dll
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.pdb
+C:\Users\55199\Documents\Repositórios\Calculo-IMC-estrutura-if-else\Calculo-IMC visual\calculo-do-imc\calculo-do-imc\obj\Debug\netcoreapp3.1\calculo-do-imc.genruntimeconfig.cache
