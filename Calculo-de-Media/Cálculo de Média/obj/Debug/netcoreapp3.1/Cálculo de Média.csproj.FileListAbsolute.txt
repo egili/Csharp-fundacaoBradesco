@@ -1,0 +1,15 @@
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\bin\Debug\netcoreapp3.1\Cálculo de Média.exe
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\bin\Debug\netcoreapp3.1\Cálculo de Média.deps.json
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\bin\Debug\netcoreapp3.1\Cálculo de Média.runtimeconfig.json
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\bin\Debug\netcoreapp3.1\Cálculo de Média.runtimeconfig.dev.json
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\bin\Debug\netcoreapp3.1\Cálculo de Média.dll
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\bin\Debug\netcoreapp3.1\Cálculo de Média.pdb
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo_de_Média.frm_media.resources
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.csproj.GenerateResource.cache
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.AssemblyInfoInputs.cache
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.AssemblyInfo.cs
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.dll
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.pdb
+C:\Users\55199\Documents\Repositórios\Calculo-de-media-no-csharp\Cálculo de Média\Cálculo de Média\obj\Debug\netcoreapp3.1\Cálculo de Média.genruntimeconfig.cache

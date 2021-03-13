@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\bin\Debug\Calculadora - Fundação bradesco.exe.config
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\bin\Debug\Calculadora - Fundação bradesco.exe
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\bin\Debug\Calculadora - Fundação bradesco.pdb
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\obj\Debug\Calculadora - Fundação bradesco.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\obj\Debug\Calculadora___Fundação_bradesco.frm_operacoes.resources
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\obj\Debug\Calculadora___Fundação_bradesco.Properties.Resources.resources
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\obj\Debug\Calculadora - Fundação bradesco.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\obj\Debug\Calculadora - Fundação bradesco.exe
+C:\Users\User\source\repos\Calculadora - Fundação bradesco\obj\Debug\Calculadora - Fundação bradesco.pdb
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\bin\Debug\Calculadora - Fundação bradesco.exe.config
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\bin\Debug\Calculadora - Fundação bradesco.exe
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\bin\Debug\Calculadora - Fundação bradesco.pdb
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\obj\Debug\Calculadora - Fundação bradesco.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\obj\Debug\Calculadora___Fundação_bradesco.frm_operacoes.resources
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\obj\Debug\Calculadora___Fundação_bradesco.Properties.Resources.resources
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\obj\Debug\Calculadora - Fundação bradesco.csproj.GenerateResource.cache
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\obj\Debug\Calculadora - Fundação bradesco.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\obj\Debug\Calculadora - Fundação bradesco.exe
+C:\Users\55199\Documents\Repositórios\Calculadora-basica-no-csharp\Calculadora c# básico\obj\Debug\Calculadora - Fundação bradesco.pdb

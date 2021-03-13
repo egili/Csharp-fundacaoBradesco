@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cálculo de Média", "Cálculo de Média\Cálculo de Média.csproj", "{69CD582C-1A9A-4053-8356-D83DA5B1FB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CD582C-1A9A-4053-8356-D83DA5B1FB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CD582C-1A9A-4053-8356-D83DA5B1FB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CD582C-1A9A-4053-8356-D83DA5B1FB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CD582C-1A9A-4053-8356-D83DA5B1FB58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1DE4A79-AFB0-4AE2-810D-95B1877DF9B2}
+	EndGlobalSection
+EndGlobal
