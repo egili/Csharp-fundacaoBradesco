@@ -1,0 +1,16 @@
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\bin\Debug\netcoreapp3.1\IncluindoAnoscomFor.exe
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\bin\Debug\netcoreapp3.1\IncluindoAnoscomFor.deps.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\bin\Debug\netcoreapp3.1\IncluindoAnoscomFor.runtimeconfig.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\bin\Debug\netcoreapp3.1\IncluindoAnoscomFor.runtimeconfig.dev.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\bin\Debug\netcoreapp3.1\IncluindoAnoscomFor.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\bin\Debug\netcoreapp3.1\IncluindoAnoscomFor.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.Form1.resources
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.csproj.GenerateResource.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.AssemblyInfoInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.AssemblyInfo.cs
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.genruntimeconfig.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\IncluindoAnoscomFor\IncluindoAnoscomFor\obj\Debug\netcoreapp3.1\IncluindoAnoscomFor.Form2.resources
