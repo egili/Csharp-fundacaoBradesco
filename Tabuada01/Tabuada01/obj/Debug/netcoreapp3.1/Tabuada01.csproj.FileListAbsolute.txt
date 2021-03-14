@@ -1,0 +1,15 @@
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\bin\Debug\netcoreapp3.1\Tabuada01.exe
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\bin\Debug\netcoreapp3.1\Tabuada01.deps.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\bin\Debug\netcoreapp3.1\Tabuada01.runtimeconfig.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\bin\Debug\netcoreapp3.1\Tabuada01.runtimeconfig.dev.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\bin\Debug\netcoreapp3.1\Tabuada01.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\bin\Debug\netcoreapp3.1\Tabuada01.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.Form1.resources
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.csproj.GenerateResource.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.AssemblyInfoInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.AssemblyInfo.cs
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\Tabuada01\Tabuada01\obj\Debug\netcoreapp3.1\Tabuada01.genruntimeconfig.cache
