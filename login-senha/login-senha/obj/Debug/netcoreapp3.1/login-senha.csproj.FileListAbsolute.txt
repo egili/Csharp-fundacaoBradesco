@@ -1,0 +1,16 @@
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\bin\Debug\netcoreapp3.1\login-senha.exe
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\bin\Debug\netcoreapp3.1\login-senha.deps.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\bin\Debug\netcoreapp3.1\login-senha.runtimeconfig.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\bin\Debug\netcoreapp3.1\login-senha.runtimeconfig.dev.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\bin\Debug\netcoreapp3.1\login-senha.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\bin\Debug\netcoreapp3.1\login-senha.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login_senha.Form1.resources
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login_senha.Form2.resources
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.csproj.GenerateResource.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.AssemblyInfoInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.AssemblyInfo.cs
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\login-senha\login-senha\obj\Debug\netcoreapp3.1\login-senha.genruntimeconfig.cache
