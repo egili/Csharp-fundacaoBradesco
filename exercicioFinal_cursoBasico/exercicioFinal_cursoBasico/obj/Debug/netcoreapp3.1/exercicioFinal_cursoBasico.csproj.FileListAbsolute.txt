@@ -1,0 +1,15 @@
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\bin\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.exe
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\bin\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.deps.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\bin\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.runtimeconfig.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\bin\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.runtimeconfig.dev.json
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\bin\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\bin\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.csprojAssemblyReference.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.Form1.resources
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.csproj.GenerateResource.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.AssemblyInfoInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.AssemblyInfo.cs
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.csproj.CoreCompileInputs.cache
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.dll
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.pdb
+C:\Users\55199\Documents\Repositórios\Csharp-fundacaoBradesco\exercicioFinal_cursoBasico\exercicioFinal_cursoBasico\obj\Debug\netcoreapp3.1\exercicioFinal_cursoBasico.genruntimeconfig.cache
