@@ -41,6 +41,11 @@ namespace tratamento_de_erros01
             {
                 MessageBox.Show("apenas números", "catch");
             }
+            finally
+            {
+                MessageBox.Show("aperte ok para sair");
+                Close();
+            }
         }
     }
 }

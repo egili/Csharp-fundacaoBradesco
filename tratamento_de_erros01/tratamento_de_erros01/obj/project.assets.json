@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55199\\Documents\\Repositórios\\Csharp-fundacaoBradesco\\Csharp Avancado\\tratamento_de_erros01\\tratamento_de_erros01\\tratamento_de_erros01.csproj",
+      "projectUniqueName": "C:\\Users\\55199\\Documents\\Repositórios\\Csharp-fundacaoBradesco\\tratamento_de_erros01\\tratamento_de_erros01\\tratamento_de_erros01.csproj",
       "projectName": "tratamento_de_erros01",
-      "projectPath": "C:\\Users\\55199\\Documents\\Repositórios\\Csharp-fundacaoBradesco\\Csharp Avancado\\tratamento_de_erros01\\tratamento_de_erros01\\tratamento_de_erros01.csproj",
+      "projectPath": "C:\\Users\\55199\\Documents\\Repositórios\\Csharp-fundacaoBradesco\\tratamento_de_erros01\\tratamento_de_erros01\\tratamento_de_erros01.csproj",
       "packagesPath": "C:\\Users\\55199\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55199\\Documents\\Repositórios\\Csharp-fundacaoBradesco\\Csharp Avancado\\tratamento_de_erros01\\tratamento_de_erros01\\obj\\",
+      "outputPath": "C:\\Users\\55199\\Documents\\Repositórios\\Csharp-fundacaoBradesco\\tratamento_de_erros01\\tratamento_de_erros01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55199\\AppData\\Roaming\\NuGet\\NuGet.Config",
